@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreenithi%20T.%20V.-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF69B4?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://SHREENITHI-TV.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF69B4?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://shreenithi-tv.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-SHREENITHI--TV-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SHREENITHI-TV)
 
 </div>
@@ -177,6 +177,6 @@ Testing-focused work across Java, web, backend, SQL, API, and validation project
 ### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF69B4?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://SHREENITHI-TV.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF69B4?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://shreenithi-tv.github.io/Portfolio/)
 
 </div>
