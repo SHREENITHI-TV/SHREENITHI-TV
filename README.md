@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shreenithi T. V.
+# Hi, I'm Shreenithi T V
 
 ### Software Engineer | QA & Test Automation | Backend/API Validation
 
@@ -19,7 +19,7 @@
 ## About Me
 
 ```yaml
-name: Shreenithi T. V.
+name: Shreenithi T V
 education: MS Computer Science Graduate
 focus: Software Engineering, QA Automation, Backend/API Validation
 interests: Reliable Software, Test Automation, Debugging, Search Systems, ML/NLP
