@@ -1,77 +1,182 @@
-<!--
-**SHREENITHI-TV/SHREENITHI-TV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Shreenithi T. V.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi 👋 I'm Shreenithi
+### Software Engineer | QA & Test Automation | Backend/API Validation
 
-🎓 Computer Science Graduate | 💻 Software & ML Engineer  
-🚀 Building real-world projects across **Backend**, **Machine Learning**, **NLP**, **Computer Vision**, and **Search Systems**
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=MS+Computer+Science+Graduate;Software+Engineering+%7C+QA+Automation+%7C+API+Testing;Java+%7C+Python+%7C+SQL+%7C+JUnit+%7C+Selenium+%7C+Playwright;Building+reliable%2C+tested%2C+and+maintainable+software" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreenithi%20T.%20V.-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF69B4?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://SHREENITHI-TV.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-SHREENITHI--TV-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SHREENITHI-TV)
+
+</div>
 
 ---
 
-## 🔥 What I Work On
+## About Me
 
-I enjoy designing and building systems that combine **data, intelligence, and usability** - from full-stack web applications to machine-learning models and search engines.
+```yaml
+name: Shreenithi T. V.
+education: MS Computer Science Graduate
+focus: Software Engineering, QA Automation, Backend/API Validation
+interests: Reliable Software, Test Automation, Debugging, Search Systems, ML/NLP
+```
 
-My work spans:
-- 🧠 Machine Learning & Deep Learning
-- 🔎 Information Retrieval & NLP
-- 🖥 Backend & Database-driven Applications
-- 📱 Desktop & Mobile Applications
-- 📊 Data-driven system design
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming & Core
-`Python` · `Java` · `PHP` · `SQL`
-
-### 🤖 Machine Learning & AI
-`Scikit-learn` · `TensorFlow / Keras` · `CNNs (DenseNet)`  
-`Transformers` · `NLP` · `Computer Vision`
-
-### 🔎 NLP & Search
-`Sentiment Analysis` · `Text Classification`  
-`BM25` · `Semantic Retrieval` · `Hybrid Search Engines`
-
-### 🌐 Backend & Databases
-`MySQL` · `PHP-MySQL`  
-
-### 🖥 Applications & Tools
-`Java Swing` · `Android Studio` · `Apache NetBeans`  
-`Jupyter Notebook` · `Google Colab`
+I build and validate software systems with a focus on clean implementation, test coverage, backend validation, and practical software quality.
 
 ---
 
-## 📊 What I Care About
+## Tech Stack
 
-- Writing **clean, maintainable code**
-- Building **end-to-end systems**
-- Solving **real-world problems**
-- Understanding the **why**, not just the how
+<div align="center">
+
+### Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square\&logo=database\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+
+### Testing & QA
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square\&logo=junit5\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square\&logo=selenium\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-005571?style=flat-square)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-6A5ACD?style=flat-square)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-4682B4?style=flat-square)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square\&logo=jira\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square\&logo=azuredevops\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+### Data, AI & Search
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-20B2AA?style=flat-square)
+![Information Retrieval](https://img.shields.io/badge/Information%20Retrieval-483D8B?style=flat-square)
+
+</div>
 
 ---
 
-## 🌱 Currently Exploring
-- Search & Recommendation Systems 
-- Exploratory Data Analysis (EDA)
-- Data visualization & storytelling
-- Statistical metrics and model evaluation
-- SQL & relational data analysis
-- Translating data into actionable insights
+## Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+### Hybrid Information Retrieval
+
+Hybrid search system combining BM25 lexical retrieval with transformer-based semantic retrieval.
+
+**Focus:** Search quality, ranking validation, model evaluation
+**Tech:** Python, BM25, Transformers, NLP
+
+</td>
+<td width="50%">
+
+### Library Management System
+
+Enhanced PHP-MySQL system with soft delete, version history, and admin activity logging.
+
+**Focus:** Backend validation, CRUD testing, regression testing
+**Tech:** PHP, MySQL, SQL, Git
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### CFMS Desktop Application
+
+Java Swing desktop application with MySQL backend for customer feedback workflows.
+
+**Focus:** Form validation, database reliability, debugging
+**Tech:** Java, Swing, JDBC, MySQL
+
+</td>
+<td width="50%">
+
+### Mobile Veggie Detector
+
+Mobile deep learning application for real-time vegetable detection using smartphone camera input.
+
+**Focus:** Mobile AI, computer vision, model integration
+**Tech:** Java, Android Studio, TensorFlow/Keras, CNN
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Amazon Reviews Sentiment Analysis
+
+Sentiment analysis on product reviews using classical ML and transformer-based NLP models.
+
+**Focus:** Text classification, model comparison, evaluation
+**Tech:** Python, Scikit-learn, Transformers, NLP
+
+</td>
+<td width="50%">
+
+### Software Quality Practice
+
+Testing-focused work across Java, web, backend, SQL, API, and validation projects.
+
+**Focus:** Test cases, defect tracking, RCA, release readiness
+**Tech:** JUnit, Selenium, Playwright, SQL, Jira
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ Feel free to explore my repositories - each one reflects how I think, build, and learn.
+## Software Quality Mindset
 
+<div align="center">
+
+| Build          | Test             | Validate         | Improve             |
+| -------------- | ---------------- | ---------------- | ------------------- |
+| Clean code     | Functional tests | API/UI workflows | Regression checks   |
+| Backend logic  | Edge cases       | SQL/data flows   | Root-cause analysis |
+| User workflows | Failure paths    | Defect fixes     | Release readiness   |
+
+</div>
+
+---
+
+## Current Role Interests
+
+<div align="center">
+
+`Software Engineer` · `QA Engineer` · `Software Test Engineer` · `Test Automation Engineer` · `SDET` · `Backend/API Validation Engineer`
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF69B4?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://SHREENITHI-TV.github.io)
+
+</div>
