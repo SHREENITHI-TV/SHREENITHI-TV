@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreenithi%20T.%20V.-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF69B4?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://shreenithi-tv.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-SHREENITHI--TV-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SHREENITHI-TV)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreenithi%20T.%20V.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF69B4?style=for-the-badge&logo=githubpages&logoColor=white)](https://shreenithi-tv.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-SHREENITHI--TV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREENITHI-TV)
 
 </div>
 
@@ -79,22 +79,22 @@ I build and validate software systems with a focus on clean implementation, test
 <tr>
 <td width="50%">
 
-### Hybrid Information Retrieval
+### [Metrics Suite](https://github.com/SHREENITHI-TV/CECS-544-Metrics-Suite)
 
-Hybrid search system combining BM25 lexical retrieval with transformer-based semantic retrieval.
+Java Swing desktop application for software metrics calculation, testing, and verification.
 
-**Focus:** Search quality, ranking validation, model evaluation
-**Tech:** Python, BM25, Transformers, NLP
+**Focus:** Function Points, Use Case Points, SMI, input validation  
+**Tech:** Java, Swing, NetBeans
 
 </td>
 <td width="50%">
 
-### Library Management System
+### [Library Management System](https://github.com/SHREENITHI-TV/Library-Management-System-Software-Maintenance)
 
-Enhanced PHP-MySQL system with soft delete, version history, and admin activity logging.
+PHP-MySQL maintenance project with soft delete, restore, version history, and admin activity logging.
 
-**Focus:** Backend validation, CRUD testing, regression testing
-**Tech:** PHP, MySQL, SQL, Git
+**Focus:** Backend validation, CRUD testing, regression testing  
+**Tech:** PHP, MySQL, SQL, XAMPP
 
 </td>
 </tr>
@@ -102,49 +102,79 @@ Enhanced PHP-MySQL system with soft delete, version history, and admin activity 
 <tr>
 <td width="50%">
 
-### CFMS Desktop Application
+### [Hybrid Information Retrieval](https://github.com/SHREENITHI-TV/Hybrid-Information-Retrieval)
 
-Java Swing desktop application with MySQL backend for customer feedback workflows.
+Hybrid search system combining BM25 lexical retrieval with dense retrieval.
 
-**Focus:** Form validation, database reliability, debugging
+**Focus:** Search quality, ranking validation, model evaluation  
+**Tech:** Python, BM25, Dense Retrieval, NLP
+
+</td>
+<td width="50%">
+
+### [Amazon Reviews Sentiment Analysis](https://github.com/SHREENITHI-TV/Amazon-Reviews-Sentiment-Analysis)
+
+Sentiment analysis on Amazon reviews using classical ML and DistilBERT.
+
+**Focus:** Text classification, model comparison, ROC-AUC  
+**Tech:** Python, Scikit-learn, DistilBERT, NLP
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### [Mobile Veggie Detector](https://github.com/SHREENITHI-TV/Mobile-Veggie-Detector)
+
+Android computer vision app for real-time vegetable detection, developed into an IEEE ICACCS 2024 paper.
+
+**Focus:** Mobile AI, computer vision, camera-based detection  
+**Tech:** Java, Android Studio, OpenCV
+
+</td>
+<td width="50%">
+
+### [Pneumonia Detection using DenseNet](https://github.com/SHREENITHI-TV/Pneumonia-Detection-using-DenseNet)
+
+DenseNet121-based chest X-ray classification project for pneumonia detection.
+
+**Focus:** Medical image classification, model evaluation, ROC-AUC  
+**Tech:** Python, TensorFlow/Keras, DenseNet121
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### [ECG Rhythm Classification](https://github.com/SHREENITHI-TV/ECG-Rhythm-Classification)
+
+Machine learning project for classifying ECG rhythm categories using extracted ECG features.
+
+**Focus:** Multi-class classification, Macro-F1 evaluation  
+**Tech:** Python, Scikit-learn, ML Classification
+
+</td>
+<td width="50%">
+
+### [CFMS Desktop Application](https://github.com/SHREENITHI-TV/CFMS-desktop-application)
+
+Java Swing and MySQL desktop application for customer feedback management workflows.
+
+**Focus:** Form validation, database reliability, workflow testing  
 **Tech:** Java, Swing, JDBC, MySQL
-
-</td>
-<td width="50%">
-
-### Mobile Veggie Detector
-
-Mobile deep learning application for real-time vegetable detection using smartphone camera input.
-
-**Focus:** Mobile AI, computer vision, model integration
-**Tech:** Java, Android Studio, TensorFlow/Keras, CNN
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Amazon Reviews Sentiment Analysis
-
-Sentiment analysis on product reviews using classical ML and transformer-based NLP models.
-
-**Focus:** Text classification, model comparison, evaluation
-**Tech:** Python, Scikit-learn, Transformers, NLP
-
-</td>
-<td width="50%">
-
-### Software Quality Practice
-
-Testing-focused work across Java, web, backend, SQL, API, and validation projects.
-
-**Focus:** Test cases, defect tracking, RCA, release readiness
-**Tech:** JUnit, Selenium, Playwright, SQL, Jira
 
 </td>
 </tr>
 </table>
+
+------
+
+## Additional Projects
+
+- [Angular Expense Tracker](https://github.com/SHREENITHI-TV/Angular-Project-Expense-Tracker) - Angular and TypeScript household expense tracking app.
+- [Java GUI Mini Suite](https://github.com/SHREENITHI-TV/Java-GUI-Mini-Suite) - Java Swing mini apps including calculators and Tic-Tac-Toe.
 
 ---
 
@@ -175,8 +205,8 @@ Testing-focused work across Java, web, backend, SQL, API, and validation project
 <div align="center">
 
 ### Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF69B4?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://shreenithi-tv.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF69B4?style=for-the-badge&logo=githubpages&logoColor=white)](https://shreenithi-tv.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREENITHI-TV)
 
 </div>
