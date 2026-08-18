@@ -45,8 +45,6 @@ I build and validate software systems with a focus on clean implementation, test
 ### Testing & QA
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square\&logo=junit5\&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square\&logo=selenium\&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API%20Testing-005571?style=flat-square)
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-6A5ACD?style=flat-square)
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-4682B4?style=flat-square)
@@ -55,9 +53,6 @@ I build and validate software systems with a focus on clean implementation, test
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square\&logo=jira\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square\&logo=azuredevops\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
 ### Data, AI & Search
