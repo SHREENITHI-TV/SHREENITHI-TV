@@ -4,7 +4,7 @@
 
 ### Software Engineer | QA & Test Automation | Backend/API Validation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=MS+Computer+Science+Graduate;Software+Engineering+%7C+QA+Automation+%7C+API+Testing;Java+%7C+Python+%7C+SQL+%7C+JUnit+%7C+Selenium+%7C+Playwright;Building+reliable%2C+tested%2C+and+maintainable+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=MS+Computer+Science+Graduate;Software+Engineering+%7C+QA+Automation+%7C+API+Testing;Java+%7C+Python+%7C+SQL+%7C+JUnit+%7C+;Building+reliable%2C+tested%2C+and+maintainable+software" alt="Typing SVG" />
 
 <br/>
 
