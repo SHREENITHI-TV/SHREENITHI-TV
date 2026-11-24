@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shreenithi T V
+# Hi, I'm Shreenithi
 
 ### Software Engineer | QA & Test Automation | Backend/API Validation
 
