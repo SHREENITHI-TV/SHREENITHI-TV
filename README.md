@@ -196,6 +196,4 @@ Java Swing and MySQL desktop application for customer feedback management workfl
 ### Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREENITHI-TV)
-
 </div>
