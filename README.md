@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreenithi%20T.%20V.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreenithi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
 [![GitHub](https://img.shields.io/badge/GitHub-SHREENITHI--TV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREENITHI-TV)
 
 </div>
