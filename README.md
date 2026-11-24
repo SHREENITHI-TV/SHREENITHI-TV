@@ -6,11 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=MS+Computer+Science+Graduate;Software+Engineering+%7C+QA+Automation+%7C+API+Testing;Java+%7C+Python+%7C+SQL+%7C+JUnit;Building+reliable%2C+tested%2C+and+maintainable+software" alt="Typing SVG" />
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreenithi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
-[![GitHub](https://img.shields.io/badge/GitHub-SHREENITHI--TV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREENITHI-TV)
-
 </div>
 
 ---
@@ -200,7 +195,7 @@ Java Swing and MySQL desktop application for customer feedback management workfl
 
 ### Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreenithi-tv/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF69B4?style=for-the-badge&logo=githubpages&logoColor=white)](https://shreenithi-tv.github.io/Portfolio/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREENITHI-TV)
 
 </div>
